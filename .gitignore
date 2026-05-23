@@ -1,0 +1,16 @@
+# Rust build artifacts
+/target/
+**/*.rs.bk
+
+# Cargo local configuration
+.cargo/config.toml
+
+# Soroban / Stellar CLI local caches and keys
+.soroban/
+.stellar/
+.env
+.env.*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
