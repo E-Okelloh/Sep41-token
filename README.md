@@ -40,6 +40,6 @@ The compiled `.wasm` file will be generated in the `target/wasm32-unknown-unknow
 ##  Running Tests
 
 Execute the native Rust test suite:
-\`\`\`bash
+\`\`\`
 cargo test
 \`\`\`
